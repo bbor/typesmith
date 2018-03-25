@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "fast-filter": "^1.0.4",
+    "hier-db": "^1.0.1",
     "lodash": "^4.17.5",
     "thunkify": "^2.1.2",
     "unyield": "0.0.1",
